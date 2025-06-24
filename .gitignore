@@ -1,0 +1,19 @@
+# Ignore pickle model files
+*.pkl
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environments (if any)
+venv/
+env/
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
